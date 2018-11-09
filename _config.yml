@@ -1,22 +1,23 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
+title:               Muisca Poetry from this millenium
+tagline:             'They wanted to erase us from history, but they could not'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://elotroalex.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Beatriz Goubert
   url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  email:             beatriz.goubert@gmail.com
 
 # Permalinks
 
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+# Color scheme. Options: air, aqua, red, orange, magenta, cyan, blue, light purple
+
+color-scheme: aqua, light purple
 
 permalink: pretty
 permalink: /:title/
@@ -48,5 +49,3 @@ exclude:
 
 # Theme
 theme: "ed."
-
-
