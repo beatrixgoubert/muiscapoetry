@@ -41,7 +41,7 @@ El entorno daba tristeza porque el recuerdo que tenía esta muisquita era difere
 
 ---
 
-*A long time ago, a pretty Muisca girl, she was four or five years old, recorded in her memory that she lived at the beginning of a mountain from where she could see the plains with the shining wheat crops, which was the yellow that illuminated. She could also see the greenery of trees, and among other things, a beautiful river crystal clear water where there were many* guapuhas[^fn1]; *and on the banks of the river there was much* esparto[^fn2] ...
+*A long time ago, a pretty Muisca girl, she was four or five years old, recorded in her memory that she lived at the beginning of a mountain from where she could see the plains with the shining wheat crops, which was the yellow that illuminated. She could also see the greenery of trees, and among other things, a beautiful river crystal clear water where there were many* guapuchas[^fn1]; *and on the banks of the river there was much* esparto[^fn2] ...
 
 *Time passed and the Musica girl had to move out for many years from her beautiful mountain, but time and destiny brought her back to the same place. When she arrived she looked with astonishment at those beautiful places she remembered as a child and those places no longer were there; everything had changed.
 
@@ -59,7 +59,7 @@ Agosto de 2017.
 
 [^fn1]: *grundulus bogotensis* is a species of fish of the Characiform order. Endemic to the Bogota region, this fish was central in the pre-Hispanic and colonial Muisca diet.
 
-[^fn2]: *esparto* is a fiber that in Muisca territory probably grew near water sources. It is used for rafts, such as cords, basketry, and ohters..
+[^fn2]: *esparto* is a fiber that in Muisca territory probably grew near water sources. It is used for rafts, such as cords, basketry, and others.
 
 
 ---

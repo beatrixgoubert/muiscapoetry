@@ -10,8 +10,7 @@ source: Research files
 
 ## Editor's note
 
-Hercilia Niviayo is a female leader of the Musica community in Suba. Besides raising her three children and few grandchildren, working as a
-*saya* (traditional teacher) at the Muisca preschool, and preparing the most delicious *chicha* (traditional Musica fermented beverage made out of corn) she sometimes writes.
+Hercilia Niviayo is a female leader of the Musica community in Suba. Besides raising her children and grandchildren, working as a *saya* (traditional teacher) at the Muisca preschool, and preparing the most delicious *chicha* (traditional Musica fermented beverage made out of corn), she sometimes writes.
 
 In this poem, entirely in Spanish, Niviayo speaks to her territory, Suba, and reassure it that the native people will take care of her again, as it was before colonization.
 
@@ -72,5 +71,4 @@ In this poem, entirely in Spanish, Niviayo speaks to her territory, Suba, and re
 ## Footnotes
 
 [^fn1]:
-
-	Suba is the 11th locality of Bogotá, the capital city Colombia (yes, it's Colombia, not Columbia). Located in the northwest of the city,this densely populated locality is home of newcomers, internally displaced migrants, as well as local inhabitants that lived in Suba before it was urbanized and incorporated in 1954 as part of the expanding capital city Bogotá.
+			Suba is the 11th locality of Bogotá, the capital city Colombia (yes, it's Colombia, not Columbia). Located in the northwest of the city,this densely populated locality is home of newcomers, internally displaced migrants, as well as local inhabitants that lived in Suba before it was urbanized and incorporated in 1954 as part of the expanding capital city Bogotá.

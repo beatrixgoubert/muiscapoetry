@@ -3,14 +3,14 @@
 # Setup
 title:               Muisca Poetry from this millenium
 tagline:             'They wanted to erase us from history, but they could not'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'hola bola'
 url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+baseurl:             '/muiscapoetry'
 
 # About/contact
 author:
   name:              Beatriz Goubert
-  url:               https://twitter.com/elotroalex
+  url:               'http://beatrixgoubert.github.io'
   email:             beatriz.goubert@gmail.com
 
 # Permalinks

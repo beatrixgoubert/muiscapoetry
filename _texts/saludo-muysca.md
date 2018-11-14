@@ -23,9 +23,9 @@ The first version of the song contains lyrics in Muysc cubun and Spanish. The se
 The corpus of songs collected here is particularly revealing of the current Muisca language revitalization strategies.
 
 
-- -*Choá choguaque-
-- --Chogue cheguaque--
-- -Muaz choa umzone*[^fn1]-
+- -*Choá choguaque*-
+- --*Chogue cheguaque*--
+- -*Muaz choa umzone*[^fn1]-
 
 - -*Choá*- yo saludo,
 - pregunto si estás bien.
@@ -37,8 +37,8 @@ The corpus of songs collected here is particularly revealing of the current Muis
 - -*Muaz choa umzone*-,
 - ¡seguro que estás bien!
 
-- *Choá, chogue,
-- Muaz choa umzone*
+- *Choá, chogue,*
+- *Muaz choa umzone*
 - Saludos en familia,
 - Saludo en lengua Muysca
 
@@ -50,9 +50,9 @@ The corpus of songs collected here is particularly revealing of the current Muis
 - Vivo mi tradición
 
 
-- -*Choá choguaque-
-- --Chogue cheguaque--
-- -Muaz choa umzone*-
+- -*Choá choguaque*-
+- --*Chogue cheguaque*--
+- -*Muaz choa umzone*-
 
 - -*Choá*- I greet you,
 - I ask if you are fine.
@@ -64,8 +64,8 @@ The corpus of songs collected here is particularly revealing of the current Muis
 - -*Muaz choa umzone*-,
 - ¡It's great that you are fine!
 
-- *Choá, chogue,
-- Muaz choa umzone*
+- *Choá, chogue,*
+- *Muaz choa umzone*
 - Greetings for the family,
 - Greetings in Muysca language
 
@@ -83,5 +83,4 @@ The corpus of songs collected here is particularly revealing of the current Muis
 
 ## Footnotes
 
-[^fn1]:
-        The first stanza of the song is spoken, not sung, recreating the salutation formula used in Muysc cubun to greet neighbors or family members.
+[^fn1]: The first stanza of the song is spoken, not sung, recreating the salutation formula used in Muysc cubun to greet neighbors or family members.
